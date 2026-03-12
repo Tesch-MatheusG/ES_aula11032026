@@ -1,8 +1,8 @@
 # Entrega – Documento de Casos de Uso e Diagramas
 
 ## Identificação da Dupla
-- Aluno 1:
-- Aluno 2:
+- Aluno 1: Thiago Mafra Domingues
+- Aluno 2: Matheus Gabriel de Melo Tesch
 
 ## Arquivos Entregues
 
